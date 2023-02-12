@@ -3,11 +3,11 @@
 
 import {
   initializeApp
-} from "https://www.gstatic.com/firebasejs/9.17.1/firebase-app.js";
+} from "firebase/app";
 
 import {
   getDatabase, ref, child, get, set, push, update
-} from "https://www.gstatic.com/firebasejs/9.17.1/firebase-database.js";
+} from "firebase/database";
 
 const firebaseConfig = {
   apiKey: "AIzaSyBEaxXY7t_87fp--qws4u_m325vKwzY10M",
