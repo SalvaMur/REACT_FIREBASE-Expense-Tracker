@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/REACT_FIREBASE-Expense-Tracker/static/css/main.a02c7de5.css",
+    "main.js": "/REACT_FIREBASE-Expense-Tracker/static/js/main.ab99963d.js",
+    "index.html": "/REACT_FIREBASE-Expense-Tracker/index.html",
+    "main.a02c7de5.css.map": "/REACT_FIREBASE-Expense-Tracker/static/css/main.a02c7de5.css.map",
+    "main.ab99963d.js.map": "/REACT_FIREBASE-Expense-Tracker/static/js/main.ab99963d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a02c7de5.css",
+    "static/js/main.ab99963d.js"
+  ]
+}
