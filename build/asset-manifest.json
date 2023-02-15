@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/REACT_FIREBASE-Expense-Tracker/static/css/main.a02c7de5.css",
-    "main.js": "/REACT_FIREBASE-Expense-Tracker/static/js/main.ab99963d.js",
+    "main.js": "/REACT_FIREBASE-Expense-Tracker/static/js/main.3884117b.js",
     "index.html": "/REACT_FIREBASE-Expense-Tracker/index.html",
     "main.a02c7de5.css.map": "/REACT_FIREBASE-Expense-Tracker/static/css/main.a02c7de5.css.map",
-    "main.ab99963d.js.map": "/REACT_FIREBASE-Expense-Tracker/static/js/main.ab99963d.js.map"
+    "main.3884117b.js.map": "/REACT_FIREBASE-Expense-Tracker/static/js/main.3884117b.js.map"
   },
   "entrypoints": [
     "static/css/main.a02c7de5.css",
-    "static/js/main.ab99963d.js"
+    "static/js/main.3884117b.js"
   ]
 }
